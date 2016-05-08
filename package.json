@@ -1,7 +1,7 @@
 {
-  "name": "test",
-  "version": "1.0.0",
-  "description": "0.0.1",
+  "name": "webpack-template",
+  "version": "0.0.1",
+  "description": "webpack项目基础模板",
   "main": "dev-server.js",
   "scripts": {
     "dev": "node dev-server",
