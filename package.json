@@ -1,6 +1,6 @@
 {
   "name": "webpack-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "webpack项目基础模板",
   "main": "dev-server.js",
   "scripts": {
@@ -10,8 +10,7 @@
   "author": "小小WEB",
   "license": "ISC",
   "dependencies": {
-    "react": "^15.0.1",
-    "react-dom": "^15.0.1"
+
   },
   "devDependencies": {
     "babel-loader": "^6.2.1",
