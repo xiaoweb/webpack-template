@@ -7,7 +7,7 @@
     "dev": "node dev-server",
     "build": "webpack -p"
   },
-  "author": "xiaoweb",
+  "author": "小小WEB",
   "license": "ISC",
   "dependencies": {
     "react": "^15.0.1",
